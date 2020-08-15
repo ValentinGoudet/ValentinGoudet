@@ -4,18 +4,18 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="PhpStorm" title="PhpStorm" width="26px" src="https://github.com/ValentinGoudet/ValentinGoudet/.github/images/phpstorm.jpg" />
-<img align="left" alt="HTML5" title="HTML5" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/html.jpg" />
-<img align="left" alt="CSS3" title="CSS3" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/css.jpg" />
-<img align="left" alt="SASS" title="SASS" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/sass.jpg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/bootstrap.jpg" />
-<img align="left" alt="Javascript" title="Javascript" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/javascript.jpg" />
-<img align="left" alt="PHP" title="PHP" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/php.jpg" />
-<img align="left" alt="MySQL" title="MySQL" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/mysql.jpg" />
-<img align="left" alt="Symfony" title="Symfony" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/symfony.jpg" />
-<img align="left" alt="Git" title="Git" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/git.jpg" />
-<img align="left" alt="Github" title="Github" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/github.jpg" />
-<img align="left" alt="Sh" title="Sh" width="26px" src=""https://github.com/ValentinGoudet/ValentinGoudet/.github/images/sh.jpg" /><br/>
+<img align="left" alt="PhpStorm" title="PhpStorm" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/phpstorm.jpg" />
+<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/html.jpg" />
+<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/css.jpg" />
+<img align="left" alt="SASS" title="SASS" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/sass.jpg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/bootstrap.jpg" />
+<img align="left" alt="Javascript" title="Javascript" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/javascript.jpg" />
+<img align="left" alt="PHP" title="PHP" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/php.jpg" />
+<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/mysql.jpg" />
+<img align="left" alt="Symfony" title="Symfony" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/symfony.jpg" />
+<img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/git.jpg" />
+<img align="left" alt="Github" title="Github" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/github.jpg" />
+<img align="left" alt="Sh" title="Sh" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/sh.jpg" /><br/>
 
 
 ### Let's be friends:
