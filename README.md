@@ -19,11 +19,10 @@
 
 ---
 
-### Latest Followers
-
-<a href="https://twitter.com/rigpga"><img alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/be675164987aea1928ca167b5e3866e80e371dc1/follower.svg"></a>
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bpubqbliim0yrmc9umi3o530m)
 
 ---
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bpubqbliim0yrmc9umi3o530m)
+### Latest Followers
+<a href="https://twitter.com/rigpga"><img alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/be675164987aea1928ca167b5e3866e80e371dc1/follower.svg"></a>
