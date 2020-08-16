@@ -39,8 +39,6 @@
 
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
-${latest_followers}
-
 <p align='center'>
 <img align='center' src="/follower.svg">
  <p/>
