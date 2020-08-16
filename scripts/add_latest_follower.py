@@ -49,7 +49,7 @@ def render_readme(
     """Render readme with twitter follower."""
 
     latest_followers = "".join(
-        [render_follower(follower) for follower in api.followers(count=5)]
+        [render_follower(follower) for follower in api.followers(count=3)]
     )
 
     me = api.get_user("rigpga")
