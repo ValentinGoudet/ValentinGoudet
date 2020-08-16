@@ -17,19 +17,13 @@
 <img align="left" alt="Github" title="Github" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/github.jpg" />
 <img align="left" alt="Sh" title="Sh" width="26px" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/.github/images/sh.jpg" /><br/>
 
-
-### Let's be friends:
-
-<a href="https://twitter.com/rigpga"><img align="left" alt="ValentinGoudet | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/valentin-goudet/"><img align="left" alt="ValentinGoudet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/rigpga/"><img align="left" alt="ValentinGoudet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><br/>
-
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bpubqbliim0yrmc9umi3o530m)
-
 ---
 
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
-<img alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/be675164987aea1928ca167b5e3866e80e371dc1/follower.svg">
+<a href="https://twitter.com/rigpga"><img alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/be675164987aea1928ca167b5e3866e80e371dc1/follower.svg"></a>
+
+---
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bpubqbliim0yrmc9umi3o530m)
