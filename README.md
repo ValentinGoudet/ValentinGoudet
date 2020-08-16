@@ -30,15 +30,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ValentinGoudet&show_icons=true&hide_border=true" />
-</details>
-
----
-
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
-<p align='center'>
-<img align='center' alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/be675164987aea1928ca167b5e3866e80e371dc1/follower.svg">
- <p/>
+<img alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/be675164987aea1928ca167b5e3866e80e371dc1/follower.svg">
