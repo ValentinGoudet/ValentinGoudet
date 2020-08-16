@@ -19,7 +19,7 @@
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+### Latest Followers
 
 <a href="https://twitter.com/rigpga"><img alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/be675164987aea1928ca167b5e3866e80e371dc1/follower.svg"></a>
 
