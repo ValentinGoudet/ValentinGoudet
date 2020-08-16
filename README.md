@@ -37,10 +37,10 @@
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _${me_followers_count}_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
 ${latest_followers}
 
 <p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
+<img align='center' src="/follower.svg">
  <p/>
