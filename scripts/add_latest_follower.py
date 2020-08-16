@@ -49,10 +49,10 @@ def render_readme(
     """Render readme with twitter follower."""
 
     latest_followers = "".join(
-        [render_follower(follower) for follower in api.followers(count=3)]
+        [render_follower(follower) for follower in api.followers(count=5)]
     )
 
-    me = api.get_user("_waylonwalker")
+    me = api.get_user("rigpga")
 
     with open(template_file) as f:
         template = Template(f.read())
