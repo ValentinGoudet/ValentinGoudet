@@ -163,6 +163,18 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/siegfriedbw'>
+            <span class='name'>Tudy de Bourbon</span><span class='screen-name'>@siegfriedbw</span>
+        </a>
+    </h2>
+
+    <p>
+        Du cap Caval à l'Ile Bourbon.
+L'inversion est art de vivre.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/CarreiraFred'>
             <span class='name'>Frédéric Carreira</span><span class='screen-name'>@CarreiraFred</span>
         </a>
@@ -181,17 +193,6 @@
 
     <p>
         allez les bleus 👮‍♂️
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Marga1134'>
-            <span class='name'>Marga</span><span class='screen-name'>@Marga1134</span>
-        </a>
-    </h2>
-
-    <p>
-        Team22
     </p>
 </li>
 
