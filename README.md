@@ -25,4 +25,4 @@
 ---
 
 ### Latest Followers
-<a href="https://twitter.com/rigpga" target="_blank"><img alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/be675164987aea1928ca167b5e3866e80e371dc1/follower.svg"></a>
+<a href="https://twitter.com/rigpga" target="_blank"><img alt="followers" src="/follower.svg"></a>
