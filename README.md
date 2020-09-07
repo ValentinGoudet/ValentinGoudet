@@ -1,4 +1,4 @@
-### Hi there, I'm Valentin Goudet - aka <a href="https://twitter.com/rigpga">Rig</a> 👋
+### Hi there, I'm <a href="https://twitter.com/rigpga">Rig</a> 👋
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rigpga?color=%2300acee&label=FOLLOW%20ME%20%28FR%29&style=for-the-badge"><br/>
 
