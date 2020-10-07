@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/FrankStrasbourg'>
+            <span class='name'>Frank Bauer</span><span class='screen-name'>@FrankStrasbourg</span>
+        </a>
+    </h2>
+
+    <p>
+        Apple - Windows Server - Linux - Technology - Geek - Photography - Cybersecurity
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/ReptileHunter'>
             <span class='name'>Flo</span><span class='screen-name'>@ReptileHunter</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Nothing Special to Report
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/LMigraineuse'>
-            <span class='name'>LaMigraineuse</span><span class='screen-name'>@LMigraineuse</span>
-        </a>
-    </h2>
-
-    <p>
-        MmeMigraine 2.0
     </p>
 </li>
 
