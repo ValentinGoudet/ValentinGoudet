@@ -163,6 +163,18 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/muad_dib117'>
+            <span class='name'>Lucky Raptor</span><span class='screen-name'>@muad_dib117</span>
+        </a>
+    </h2>
+
+    <p>
+        A lucky raptor
+#fonctionnaire
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/blblbl37651005'>
             <span class='name'>blblbl</span><span class='screen-name'>@blblbl37651005</span>
         </a>
@@ -181,17 +193,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Blanchenovia'>
-            <span class='name'>Blanchenovia 🌈</span><span class='screen-name'>@Blanchenovia</span>
-        </a>
-    </h2>
-
-    <p>
-        19 yo | 🇲🇫 | athée | gendarme | J'aime la démocratie, la liberté, la république, et mon pays.
     </p>
 </li>
 
