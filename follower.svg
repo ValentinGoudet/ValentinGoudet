@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/kevjesus21'>
+            <span class='name'>Kévin</span><span class='screen-name'>@kevjesus21</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Marzullo2'>
             <span class='name'>livio</span><span class='screen-name'>@Marzullo2</span>
         </a>
@@ -186,18 +197,6 @@ Jeune Sapeur Pompier
 #SoutientAuxFDO                                    
 Elsass
 Strasbourg
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/muad_dib117'>
-            <span class='name'>Lucky Raptor</span><span class='screen-name'>@muad_dib117</span>
-        </a>
-    </h2>
-
-    <p>
-        A lucky raptor
-#fonctionnaire
     </p>
 </li>
 
