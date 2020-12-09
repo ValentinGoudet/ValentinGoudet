@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/SirYoda'>
+            <span class='name'>Sir.Yoda</span><span class='screen-name'>@SirYoda</span>
+        </a>
+    </h2>
+
+    <p>
+        Guitar and whisky
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/ludlec'>
             <span class='name'>Ludovic L</span><span class='screen-name'>@ludlec</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         .
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/VeniVidiVici51'>
-            <span class='name'>Vincent VEGA 🇫🇷</span><span class='screen-name'>@VeniVidiVici51</span>
-        </a>
-    </h2>
-
-    <p>
-        Plutôt curieux, Pas vulgaire. J’aime le Cinéma, les Séries, le Sport et les belles choses de la Vie.
     </p>
 </li>
 
