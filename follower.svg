@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/NadiaDevWeb'>
+            <span class='name'>Nadia Web</span><span class='screen-name'>@NadiaDevWeb</span>
+        </a>
+    </h2>
+
+    <p>
+        Développeuse web
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/AlepoUSA'>
             <span class='name'>Alepo Technologies Inc.</span><span class='screen-name'>@AlepoUSA</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         " Parler sans penser c'est tirer sans viser. "
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Michel_2133'>
-            <span class='name'>Michel Leroy</span><span class='screen-name'>@Michel_2133</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
